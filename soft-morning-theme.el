@@ -1,10 +1,10 @@
-;;; soft-morning-theme.el --- Dark charcoal theme with soft colors
+;;; soft-morning-theme.el --- Emacs24 theme with a light background.
 
 ;; Author: Martin Haesler
 ;; URL: http://github.com/mswift42/soft-morning-theme
 ;; Version: 0.1
 
-;; dark theme with a charcoal bg and soft colors
+;; Emacs24 theme with a light background.
 ;; Copyright (C) 2013 , Martin Haesler
 
 ;; This program is free software: you can redistribute it and/or modify
@@ -30,7 +30,7 @@
         '(font-lock-builtin-face ((t (:foreground "#727170"))))
         '(region ((t (:background "#3c414c" :foreground "#faf4c6"))))
         '(highlight ((t (:foreground "#626262"))))
-	'(hl-line ((t (:background "#c3c2c1"))))
+	'(hl-line ((t (:background "#d3d2d1"))))
 	'(fringe ((t (:background "#e8e7e6" :foreground "#4c4c4c"))))
 	'(cursor ((t (:background "#626262"))))
         '(show-paren-match-face ((t (:background "#f03f3f"))))
@@ -45,7 +45,7 @@
 	'(font-lock-negation-char-face ((t (:foreground "#f03f3f"))))
 	'(font-lock-reference-face ((t (:foreground "#d08689"))))
 	'(font-lock-constant-face ((t (:foreground "#f03f3f"))))
-        '(font-lock-doc-face ((t (:foreground "#7d949b"))))
+        '(font-lock-doc-face ((t (:foreground "#708090"))))
         '(font-lock-function-name-face ((t (:foreground "#a82e4d"))))
         '(font-lock-keyword-face ((t (:bold t :foreground "#8aa234"))))
 	'(font-lock-reference-face ((t (:bold t :foreground "#b998df"))))
@@ -82,12 +82,12 @@
 	'(font-latex-match-variable-keywords ((t (:foreground "#708090"))))
 	'(ido-only-match ((t (:foreground "#f03f3f"))))
 	'(org-sexp-date ((t (:foreground "#808080"))))
-	'(ido-first-match ((t (:foreground "#8aa234"))))
+	'(ido-first-match ((t (:foreground "#a82e4d"))))
 	'(gnus-header-content ((t (:foreground "#e3e3e3"))))
 	'(gnus-header-from ((t (:foreground "#54686d"))))
 	'(gnus-header-name ((t (:foreground "#5d90cd"))))
 	'(gnus-header-subject ((t (:foreground "#b998df"))))
-	'(magit-item-highlight ((t (:background "#252525"))))
+	'(magit-item-highlight ((t (:background "#d3d2d1"))))
 	'(slime-repl-inputed-output-face ((t (:foreground "#727170")))))
 
 ;;;###autoload
@@ -98,3 +98,15 @@
 (provide-theme 'soft-morning)
 
 ;;; soft-morning-theme.el ends here
+
+
+
+
+
+
+
+
+
+
+
+
