@@ -72,7 +72,7 @@
         '(org-quote ((t (:inherit org-block :slant italic))))
         '(org-verse ((t (:inherit org-block :slant italic))))
         '(org-todo ((t (:bold t :foreground "#727170"))))
-        '(org-done ((t (:bold t :foreground "#708090"))))
+        '(org-done ((t (:bold t :foreground "#a2a1a0"))))
         '(org-warning ((t (:underline t :foreground "#ff0000"))))
         '(org-agenda-structure ((t (:weight bold :foreground "#626160"))))
         '(org-agenda-date ((t (:foreground "#8aa234" :height 1.2))))
