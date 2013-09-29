@@ -24,7 +24,7 @@ This will add the gnu, marmalade and melpa repos to your emacs setup.
 
 To install the theme
 
-    **M-x package-install** soft-morning-theme
+**M-x package-install** soft-morning-theme
 
 
 To use the soft-morning theme when starting emacs:
