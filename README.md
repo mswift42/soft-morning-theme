@@ -27,7 +27,7 @@ To install the theme
 **M-x package-install** soft-morning-theme
 
 
-To use the soft-morning theme when starting emacs:
+To use the soft-morning theme when starting emacs, add this to your init.el:
 
     (load-theme 'soft-morning)
 
