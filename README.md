@@ -21,6 +21,12 @@ add the following lines to your init.el (only if you have not done so already):
 
 
 This will add the gnu, marmalade and melpa repos to your emacs setup.
+
+To install the theme
+
+    **M-x package-install** soft-morning-theme
+
+
 To use the soft-morning theme when starting emacs:
 
     (load-theme 'soft-morning)
