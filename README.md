@@ -10,7 +10,7 @@ Available on Melpa.
 Installation Instructions
 -------------------------
 
-add the following lines to your init.el
+add the following lines to your init.el (only if you have not done so already):
 
     (setq package-archives '(("gnu" . "http://elpa.gnu.org/packages/")
                              ("marmalade" . "http://marmalade-repo.org/packages/")
