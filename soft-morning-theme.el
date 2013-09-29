@@ -26,7 +26,7 @@
 
 (custom-theme-set-faces
   'soft-morning 
-        '(default ((t (:background "#f2f1f0" :foreground "#4c4c4c"))))
+        '(default ((t (:background "#f2f1f0" :foreground "#404040"))))
         '(font-lock-builtin-face ((t (:foreground "#727170"))))
         '(region ((t (:background "#3c414c" :foreground "#faf4c6"))))
         '(highlight ((t (:foreground "#626262"))))
