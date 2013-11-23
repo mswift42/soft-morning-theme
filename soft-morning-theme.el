@@ -2,7 +2,7 @@
 
 ;; Author: Martin Haesler
 ;; URL: http://github.com/mswift42/soft-morning-theme
-;; Version: 0.1
+;; Version: 0.2
 
 ;; Emacs24 theme with a light background.
 ;; Copyright (C) 2013 , Martin Haesler
@@ -26,7 +26,7 @@
 
 (custom-theme-set-faces
   'soft-morning 
-        '(default ((t (:background "#f2f1f0" :foreground "#404040"))))
+        '(default ((t (:background "#f2f1f0" :foreground "#282828"))))
         '(font-lock-builtin-face ((t (:foreground "#727170"))))
         '(region ((t (:background "#3c414c" :foreground "#faf4c6"))))
         '(highlight ((t (:foreground "#626262"))))
