@@ -95,6 +95,8 @@
 	'(gnus-header-content ((t (:foreground "#708090"))))
 	'(gnus-server-agent-face ((t (:foreground "#626160"))))
 	'(magit-item-highlight ((t (:background "#d3d2d1"))))
+	'(ac-completion-face ((t (:underline t :foreground "#ff0000"))))
+	'(info-string ((t (:foreground "#3450a2"))))
 	'(slime-repl-inputed-output-face ((t (:foreground "#727170")))))
 
 ;;;###autoload
