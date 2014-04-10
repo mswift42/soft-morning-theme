@@ -97,6 +97,7 @@
 	'(magit-item-highlight ((t (:background "#d3d2d1"))))
 	'(ac-completion-face ((t (:underline t :foreground "#ff0000"))))
 	'(info-string ((t (:foreground "#3450a2"))))
+        '(trailing-whitespace ((t :foreground nil :background "#d7cdb8")))
 	'(slime-repl-inputed-output-face ((t (:foreground "#727170")))))
 
 ;;;###autoload
