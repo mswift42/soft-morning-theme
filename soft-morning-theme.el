@@ -108,7 +108,11 @@
         '(rainbow-delimiters-depth-7-face ((t (:foreground "#740aff"))))
         '(rainbow-delimiters-depth-8-face ((t (:foreground "orange"))))
         '(rainbow-delimiters-depth-9-face ((t (:foreground "magenta"))))
-        '(rainbow-delimiters-unmatched-face ((t (:foreground "red")))))
+        '(rainbow-delimiters-unmatched-face ((t (:foreground "red"))))
+        '(js2-external-variable ((t (:foreground "#8a2100"))))
+        '(js2-jsdoc-html-tag-delimiter ((t (:foreground "#454545"))))
+        '(js2-private-function-call ((t (:foreground "#8aa234"))))
+        '(js2-jsdoc-html-tag-name ((t (:foreground "#525210")))))
 
 ;;;###autoload
 (when load-file-name
