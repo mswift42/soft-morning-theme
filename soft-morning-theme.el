@@ -111,7 +111,7 @@
         '(rainbow-delimiters-unmatched-face ((t (:foreground "red"))))
         '(js2-external-variable ((t (:foreground "#8a2100"))))
         '(js2-jsdoc-html-tag-delimiter ((t (:foreground "#454545"))))
-        '(js2-private-function-call ((t (:foreground "#8aa234"))))
+        '(js2-private-function-call ((t (:foreground "#00698a"))))
         '(js2-jsdoc-html-tag-name ((t (:foreground "#525210")))))
 
 ;;;###autoload
